@@ -36,6 +36,8 @@
 
 After training 100 epochs, I exceeded the strong baseline with **0.75038**. 
 
+- Tried to use GRU, but only got 0.7189
+
 
 
 
