@@ -8,9 +8,9 @@
 
 ## Baseline
 
-- [] boss baseline: 0.93175
-- [] strong baseline: 0.88500
-- [] medium baseline: 0.81750
+- [x] boss baseline: 0.93175
+- [x] strong baseline: 0.88500
+- [x] medium baseline: 0.81750
 - [x] simple base line: 0.66025
 
 
