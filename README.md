@@ -12,3 +12,10 @@ My personal learning record of [Machine Learning 2023 Spring](https://speech.ee.
 - [] HW6
 - [x] HW7
 - [x] HW8
+- [x] HW9
+- [] HW10
+- [] HW11
+- [] HW12
+- [] HW13
+- [] HW14
+- [] HW15
